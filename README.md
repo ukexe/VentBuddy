@@ -153,4 +153,4 @@ For inquiries or support, reach out to us at support@ventbuddy.ai.
 ## Useful Links
 - [[GitHub Repository](https://github.com/ukexe/VentBuddy.git)](#)
 - [[API Documentation](https://docs.google.com/document/d/1D8D9P7uc4VXuC6ZsAJbUNQ_NCmCIUNxqXfj6GJXL3GE/edit?usp=sharing)](#)
-- [Live Demo](#)
+- [[Live Demo](https://b5ohhm9ly2v8136f5.lite.vusercontent.net/)](#)
