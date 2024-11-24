@@ -106,7 +106,7 @@ try {
 ```
 
 ## Live Demo
-Check out the live application here: [VentBuddy Live Demo](#)
+Check out the live application here: [[VentBuddy Live Demo](https://b5ohhm9ly2v8136f5.lite.vusercontent.net/)](#)
 
 ## Challenges Faced
 
