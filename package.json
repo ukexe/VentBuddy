@@ -1,0 +1,21 @@
+{
+  "name": "truth-terminal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ai": "^4.0.3",
+    "lucide-react": "^0.460.0",
+    "openai": "^4.73.0"
+  }
+}
