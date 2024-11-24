@@ -151,6 +151,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For inquiries or support, reach out to us at support@ventbuddy.ai.
 
 ## Useful Links
-- [GitHub Repository](#)
-- [API Documentation](#)
+- [[GitHub Repository](https://github.com/ukexe/VentBuddy.git)](#)
+- [[API Documentation](https://docs.google.com/document/d/1D8D9P7uc4VXuC6ZsAJbUNQ_NCmCIUNxqXfj6GJXL3GE/edit?usp=sharing)](#)
 - [Live Demo](#)
